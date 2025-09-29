@@ -1,0 +1,11 @@
+mentor_data_csv = """
+mentor_id,name,title,skills,experience,industry,availability,shared_background
+alumni001,Priya Sharma,Senior Software Engineer @ Google,"Python, Java, Cloud Computing, Kubernetes, GCP","10 years in cloud infrastructure and distributed systems.","Tech",High,"Computer Science, Coding Club"
+alumni002,Rohan Mehra,Product Manager @ Microsoft,"Product Strategy, Agile, User Research, JIRA, Roadmapping","7 years experience in launching B2C software products.","Tech",Medium,"MBA, Entrepreneurship Cell"
+alumni003,Anjali Singh,Data Scientist @ Amazon,"Python, Machine Learning, TensorFlow, PyTorch, SQL, AWS","5 years building predictive models for e-commerce logistics.","E-commerce",High,"Statistics, AI Research Group"
+alumni004,Vikram Batra,Investment Banker @ Goldman Sachs,"Financial Modeling, Valuation, Mergers & Acquisitions, Excel","12 years in M&A advisory for the TMT sector.","Finance",Low,"Finance, Investment Club"
+alumni005,Sneha Reddy,UX/UI Designer @ Zomato,"Figma, Sketch, Adobe XD, User Journey Mapping, Prototyping","6 years designing mobile-first user experiences.","Consumer Tech",High,"Design School, Art Club"
+alumni006,Arjun Kapoor,Cybersecurity Analyst @ Deloitte,"Penetration Testing, SIEM, Network Security, Python","4 years in threat detection and incident response.","Consulting",Medium,"Information Technology, Cyber Club"
+alumni007,Aditi Rao,Lead Data Scientist at PayCo,"Python, PyTorch, Risk Analysis, Fintech, Fraud Detection","8 years of experience in financial modeling and fraud detection.","Fintech",High,"Computer Science, AI Research Group"
+alumni008,Karan Desai,Marketing Head @ Nykaa,"Digital Marketing, SEO, SEM, Content Strategy, Brand Management","9 years in growing D2C brands online.","E-commerce",Medium,"Marketing, Drama Club"
+"""
